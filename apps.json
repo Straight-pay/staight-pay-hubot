@@ -1,5 +1,5 @@
 {
-  "hubot": {
+  "straight_pay": {
     "provider": "heroku",
     "auto_merge": false,
     "repository": "mwitek/straight_pay",
