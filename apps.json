@@ -1,0 +1,9 @@
+{
+  "hubot": {
+    "provider": "heroku",
+    "auto_merge": false,
+    "repository": "mwitek/straight_pay",
+    "environments": ["staging"],
+    "heroku_staging_name": "straight-pay-staging"
+  }
+}
